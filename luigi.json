@@ -1,0 +1,108 @@
+[
+    {
+        "userID":"Inter",
+        "StrikersName":["Edin Dzeko","Lautaro Martinez","Joaquin Correa","Romelo Lukaku"],
+        "StrikersNumber":["9","10","11","90"],
+        "MidfieldersName":["Raoul Bellanova","Kristjan Asllan","Valentin Corboni","Marcelo Brozovic"],
+        "MidfieldersNumber":["12","14","45","77"],
+        "DefendersName":["FRANCESCO ACERBI","FEDERICO DIMARCO","MATTEO DARMIAN","MILAN SKRINIAR"],
+        "DefendersNumber":["15","32","36","37"]
+    },
+    {
+        "userID":"Liverpool",
+        "StrikersName":["Roberto Firmino","Mohamed Salah","Cody Gakpo","Darwin Nunez"],
+        "StrikersNumber":["9","10","18","27"],
+        "MidfieldersName":["Fabinho","Thiago Alcantara","James Milner","Naby Keita"],
+        "MidfieldersNumber":["3","6","7","8"],
+        "DefendersName":["Joe Gomez","Virgil van Dijk","Ibrahima Konate","Andy Robertson"],
+        "DefendersNumber":["2","4","5","26"]
+    },
+    {
+        "userID":"City",
+        "StrikersName":["JULIAN ALVAREZ","ERLING HAALAND","RIYAD MAHREZ","KEVIN DE BRUYNE"],
+        "StrikersNumber":["19","9","26","17"],
+        "MidfieldersName":["BERNARDO SILVA","PHIL FODEN","JACK GREALISH","ILKAY GUNDOGAN"],
+        "MidfieldersNumber":["47","10","8","20"],
+        "DefendersName":["KYLE WALKER","SERGIO GOMEZ","JOHN Stones","JOSHUA WILSON-ESBRAND"],
+        "DefendersNumber":["2","21","5","997"]
+    },
+    {
+        "userID":"United",
+        "StrikersName":["MARCUS RASHFORDMARCUS","ANTHONY MARTIALANTHONY","JADON SANCHOJADON","ANTONY"],
+        "StrikersNumber":["10","9","25","21"],
+        "MidfieldersName":["BRUNO FERNANDESBRUNO","CHRISTIAN ERIKSEN","FRED","CASEMIRO"],
+        "MidfieldersNumber":["8","14","17","18"],
+        "DefendersName":["TYRELL MALACIATYRELL","RAPHAEL VARANE","HARRY MAGUIREHARRY","PHIL JONES"],
+        "DefendersNumber":["12","19","9","4"]
+    },
+    {
+        "userID":"Munchen",
+        "StrikersName":["THOMAS MÜLLER","SADIO MANÉ","LEROY SANÉ","SERGE GNABRY"],
+        "StrikersNumber":["25","17","19","7"],
+        "MidfieldersName":["JOSHUA KIMMICH","LEON GORETZKA","PAUL WANNER","RYAN GRAVENBERCH"],
+        "MidfieldersNumber":["6","8","14","38"],
+        "DefendersName":["DAYOT UPAMECANO","MATTHIJS DE LIGT","BENJAMIN PAVARD","ALPHONSO DAVIES"],
+        "DefendersNumber":["2","4","5","19"]
+    },
+    {
+        "userID":"Barcalona",
+        "StrikersName":["Robert Lewandowski","Raphinha","Ousmane Dembélé","Ansu Fati"],
+        "StrikersNumber":["9","22","7","10"],
+        "MidfieldersName":["Frenkie de Jong","Gavi","Sergio Busquets","Pedri"],
+        "MidfieldersNumber":["21","30","5","8"],
+        "DefendersName":["Jordi Alba","Jules Kounde","Marcos Alonso","Ronald Araujo"],
+        "DefendersNumber":["18","23","17","4"]
+    }   
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

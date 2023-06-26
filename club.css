@@ -1,0 +1,117 @@
+*{
+    font-family: 'Cairo', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #009975;
+}
+.container{
+    display: flex;
+    gap: 8px;
+}
+header{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.dasboard{
+    background-image: url(./image/inter.png);
+    background-size: cover;
+    border-radius: 4px;
+    padding: 17px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 602px;
+}
+
+
+img{
+    width: 80px;
+    height: 80px;
+    background-color: aliceblue;
+    cursor: pointer;
+    user-select: none;
+}
+
+.Attack,
+.Mellio,
+.Diffence{
+    background-color: #fff;
+    padding: 10px 13px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+p,
+h3{
+    user-select: none;
+}
+h3{
+    padding-bottom: 2px;
+    border-bottom: 1px solid #000;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+p{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.leage{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.active{
+    /* border-radius: 12px; */
+    border: 5px solid #f00;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
